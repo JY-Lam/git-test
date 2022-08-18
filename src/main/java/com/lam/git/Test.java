@@ -14,5 +14,6 @@ public class Test {
         System.out.println("Hello Git4");
         System.out.println("master conflict");
         System.out.println("hof-fix conflict");
+        System.out.println("push GitHub");
     }
 }
